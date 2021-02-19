@@ -4,4 +4,4 @@ plugins:
   - git-committers:
 #      repository: omnicstech/wiki
 #      branch: master
-#      token: 865f94b0ea0bf976b48aaf097a071f53f3004f21
+      token: 865f94b0ea0bf976b48aaf097a071f53f3004f21
